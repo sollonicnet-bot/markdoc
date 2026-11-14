@@ -133,3 +133,4 @@ Special shout out to:
 
 - [@marcioAlmada](https://github.com/marcioAlmada) for providing us with the [@markdoc](https://github.com/markdoc) GitHub org.
 - [@koomen](https://github.com/koomen) for gifting us https://markdoc.dev.
+https://user-images.githubusercontent.com/62121649/167893184-a2b69260-ca9e-4a77-a5bc-63b8135ae5db.png
